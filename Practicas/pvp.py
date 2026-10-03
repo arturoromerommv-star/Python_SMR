@@ -6,7 +6,7 @@ jugador2 = input("jugador2: ")
 Hp1 = 100
 Hp2 = 100
 atacar = 25
-defender = 10
+defender = 25
 print(jugador1 + " y " + jugador2 + " inician con 100hp")
 #3.-Indicar el turno el turno que comienza
 #4.-Pedir al jugador 1 que elija una acción:
